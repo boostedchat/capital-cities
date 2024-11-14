@@ -1,0 +1,1752 @@
+{
+    "AF": {
+        "name": "Afghanistan",
+        "currency": "AFN",
+        "currency_name": "Afghan afghani",
+        "currency_symbol": "؋",
+        "timezone": "(GMT+04:30) Asia/Kabul"
+    },
+    "AX": {
+        "name": "Aland Islands",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+02:00) Europe/Mariehamn"
+    },
+    "AL": {
+        "name": "Albania",
+        "currency": "ALL",
+        "currency_name": "Albanian lek",
+        "currency_symbol": "Lek",
+        "timezone": "(GMT+01:00) Europe/Tirane"
+    },
+    "DZ": {
+        "name": "Algeria",
+        "currency": "DZD",
+        "currency_name": "Algerian dinar",
+        "currency_symbol": "دج",
+        "timezone": "(GMT+01:00) Africa/Algiers"
+    },
+    "AS": {
+        "name": "American Samoa",
+        "currency": "USD",
+        "currency_name": "US Dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-11:00) Pacific/Pago_Pago"
+    },
+    "AD": {
+        "name": "Andorra",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Andorra"
+    },
+    "AO": {
+        "name": "Angola",
+        "currency": "AOA",
+        "currency_name": "Angolan kwanza",
+        "currency_symbol": "Kz",
+        "timezone": "(GMT+01:00) Africa/Luanda"
+    },
+    "AI": {
+        "name": "Anguilla",
+        "currency": "XCD",
+        "currency_name": "East Caribbean dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Anguilla"
+    },
+    "AQ": {
+        "name": "Antarctica",
+        "currency": "AAD",
+        "currency_name": "Antarctican dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+06:00) Antarctica/Vostok"
+    },
+    "AG": {
+        "name": "Antigua and Barbuda",
+        "currency": "XCD",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Antigua"
+    },
+    "AR": {
+        "name": "Argentina",
+        "currency": "ARS",
+        "currency_name": "Argentine peso",
+        "currency_symbol": "$",
+        "timezone": "(GMT-03:00) America/Argentina/Ushuaia"
+    },
+    "AM": {
+        "name": "Armenia",
+        "currency": "AMD",
+        "currency_name": "Armenian dram",
+        "currency_symbol": "֏",
+        "timezone": "(GMT+04:00) Asia/Yerevan"
+    },
+    "AW": {
+        "name": "Aruba",
+        "currency": "AWG",
+        "currency_name": "Aruban florin",
+        "currency_symbol": "ƒ",
+        "timezone": "(GMT-04:00) America/Aruba"
+    },
+    "AU": {
+        "name": "Australia",
+        "currency": "AUD",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+11:00) Australia/Sydney"
+    },
+    "AT": {
+        "name": "Austria",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Vienna"
+    },
+    "AZ": {
+        "name": "Azerbaijan",
+        "currency": "AZN",
+        "currency_name": "Azerbaijani manat",
+        "currency_symbol": "m",
+        "timezone": "(GMT+04:00) Asia/Baku"
+    },
+    "BH": {
+        "name": "Bahrain",
+        "currency": "BHD",
+        "currency_name": "Bahraini dinar",
+        "currency_symbol": ".د.ب",
+        "timezone": "(GMT+03:00) Asia/Bahrain"
+    },
+    "BD": {
+        "name": "Bangladesh",
+        "currency": "BDT",
+        "currency_name": "Bangladeshi taka",
+        "currency_symbol": "৳",
+        "timezone": "(GMT+06:00) Asia/Dhaka"
+    },
+    "BB": {
+        "name": "Barbados",
+        "currency": "BBD",
+        "currency_name": "Barbadian dollar",
+        "currency_symbol": "Bds$",
+        "timezone": "(GMT-04:00) America/Barbados"
+    },
+    "BY": {
+        "name": "Belarus",
+        "currency": "BYN",
+        "currency_name": "Belarusian ruble",
+        "currency_symbol": "Br",
+        "timezone": "(GMT+03:00) Europe/Minsk"
+    },
+    "BE": {
+        "name": "Belgium",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Brussels"
+    },
+    "BZ": {
+        "name": "Belize",
+        "currency": "BZD",
+        "currency_name": "Belize dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-06:00) America/Belize"
+    },
+    "BJ": {
+        "name": "Benin",
+        "currency": "XOF",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "CFA",
+        "timezone": "(GMT+01:00) Africa/Porto-Novo"
+    },
+    "BM": {
+        "name": "Bermuda",
+        "currency": "BMD",
+        "currency_name": "Bermudian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) Atlantic/Bermuda"
+    },
+    "BT": {
+        "name": "Bhutan",
+        "currency": "BTN",
+        "currency_name": "Bhutanese ngultrum",
+        "currency_symbol": "Nu.",
+        "timezone": "(GMT+06:00) Asia/Thimphu"
+    },
+    "BO": {
+        "name": "Bolivia",
+        "currency": "BOB",
+        "currency_name": "Bolivian boliviano",
+        "currency_symbol": "Bs.",
+        "timezone": "(GMT-04:00) America/La_Paz"
+    },
+    "BQ": {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Anguilla"
+    },
+    "BA": {
+        "name": "Bosnia and Herzegovina",
+        "currency": "BAM",
+        "currency_name": "Bosnia and Herzegovina convertible mark",
+        "currency_symbol": "KM",
+        "timezone": "(GMT+01:00) Europe/Sarajevo"
+    },
+    "BW": {
+        "name": "Botswana",
+        "currency": "BWP",
+        "currency_name": "Botswana pula",
+        "currency_symbol": "P",
+        "timezone": "(GMT+02:00) Africa/Gaborone"
+    },
+    "BV": {
+        "name": "Bouvet Island",
+        "currency": "NOK",
+        "currency_name": "Norwegian Krone",
+        "currency_symbol": "kr",
+        "timezone": "(GMT+01:00) Europe/Oslo"
+    },
+    "BR": {
+        "name": "Brazil",
+        "currency": "BRL",
+        "currency_name": "Brazilian real",
+        "currency_symbol": "R$",
+        "timezone": "(GMT-03:00) America/Sao_Paulo"
+    },
+    "IO": {
+        "name": "British Indian Ocean Territory",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+06:00) Indian/Chagos"
+    },
+    "BN": {
+        "name": "Brunei",
+        "currency": "BND",
+        "currency_name": "Brunei dollar",
+        "currency_symbol": "B$",
+        "timezone": "(GMT+08:00) Asia/Brunei"
+    },
+    "BG": {
+        "name": "Bulgaria",
+        "currency": "BGN",
+        "currency_name": "Bulgarian lev",
+        "currency_symbol": "Лв.",
+        "timezone": "(GMT+02:00) Europe/Sofia"
+    },
+    "BF": {
+        "name": "Burkina Faso",
+        "currency": "XOF",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "CFA",
+        "timezone": "(GMT+00:00) Africa/Ouagadougou"
+    },
+    "BI": {
+        "name": "Burundi",
+        "currency": "BIF",
+        "currency_name": "Burundian franc",
+        "currency_symbol": "FBu",
+        "timezone": "(GMT+02:00) Africa/Bujumbura"
+    },
+    "KH": {
+        "name": "Cambodia",
+        "currency": "KHR",
+        "currency_name": "Cambodian riel",
+        "currency_symbol": "KHR",
+        "timezone": "(GMT+07:00) Asia/Phnom_Penh"
+    },
+    "CM": {
+        "name": "Cameroon",
+        "currency": "XAF",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "FCFA",
+        "timezone": "(GMT+01:00) Africa/Douala"
+    },
+    "CA": {
+        "name": "Canada",
+        "currency": "CAD",
+        "currency_name": "Canadian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-07:00) America/Yellowknife"
+    },
+    "CV": {
+        "name": "Cape Verde",
+        "currency": "CVE",
+        "currency_name": "Cape Verdean escudo",
+        "currency_symbol": "$",
+        "timezone": "(GMT-01:00) Atlantic/Cape_Verde"
+    },
+    "KY": {
+        "name": "Cayman Islands",
+        "currency": "KYD",
+        "currency_name": "Cayman Islands dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-05:00) America/Cayman"
+    },
+    "CF": {
+        "name": "Central African Republic",
+        "currency": "XAF",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "FCFA",
+        "timezone": "(GMT+01:00) Africa/Bangui"
+    },
+    "TD": {
+        "name": "Chad",
+        "currency": "XAF",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "FCFA",
+        "timezone": "(GMT+01:00) Africa/Ndjamena"
+    },
+    "CL": {
+        "name": "Chile",
+        "currency": "CLP",
+        "currency_name": "Chilean peso",
+        "currency_symbol": "$",
+        "timezone": "(GMT-05:00) Pacific/Easter"
+    },
+    "CN": {
+        "name": "China",
+        "currency": "CNY",
+        "currency_name": "Chinese yuan",
+        "currency_symbol": "¥",
+        "timezone": "(GMT+06:00) Asia/Urumqi"
+    },
+    "CX": {
+        "name": "Christmas Island",
+        "currency": "AUD",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+07:00) Indian/Christmas"
+    },
+    "CC": {
+        "name": "Cocos (Keeling) Islands",
+        "currency": "AUD",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+06:30) Indian/Cocos"
+    },
+    "CO": {
+        "name": "Colombia",
+        "currency": "COP",
+        "currency_name": "Colombian peso",
+        "currency_symbol": "$",
+        "timezone": "(GMT-05:00) America/Bogota"
+    },
+    "KM": {
+        "name": "Comoros",
+        "currency": "KMF",
+        "currency_name": "Comorian franc",
+        "currency_symbol": "CF",
+        "timezone": "(GMT+03:00) Indian/Comoro"
+    },
+    "CG": {
+        "name": "Congo",
+        "currency": "XAF",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "FC",
+        "timezone": "(GMT+01:00) Africa/Brazzaville"
+    },
+    "CK": {
+        "name": "Cook Islands",
+        "currency": "NZD",
+        "currency_name": "Cook Islands dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-10:00) Pacific/Rarotonga"
+    },
+    "CR": {
+        "name": "Costa Rica",
+        "currency": "CRC",
+        "currency_name": "Costa Rican colón",
+        "currency_symbol": "₡",
+        "timezone": "(GMT-06:00) America/Costa_Rica"
+    },
+    "CI": {
+        "name": "Cote D'Ivoire (Ivory Coast)",
+        "currency": "XOF",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "CFA",
+        "timezone": "(GMT+00:00) Africa/Abidjan"
+    },
+    "HR": {
+        "name": "Croatia",
+        "currency": "HRK",
+        "currency_name": "Croatian kuna",
+        "currency_symbol": "kn",
+        "timezone": "(GMT+01:00) Europe/Zagreb"
+    },
+    "CU": {
+        "name": "Cuba",
+        "currency": "CUP",
+        "currency_name": "Cuban peso",
+        "currency_symbol": "$",
+        "timezone": "(GMT-05:00) America/Havana"
+    },
+    "CW": {
+        "name": "Curaçao",
+        "currency": "ANG",
+        "currency_name": "Netherlands Antillean guilder",
+        "currency_symbol": "ƒ",
+        "timezone": "(GMT-04:00) America/Curacao"
+    },
+    "CY": {
+        "name": "Cyprus",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+02:00) Asia/Nicosia"
+    },
+    "CZ": {
+        "name": "Czech Republic",
+        "currency": "CZK",
+        "currency_name": "Czech koruna",
+        "currency_symbol": "Kč",
+        "timezone": null
+    },
+    "CD": {
+        "name": "Democratic Republic of the Congo",
+        "currency": "CDF",
+        "currency_name": "Congolese Franc",
+        "currency_symbol": "FC",
+        "timezone": "(GMT+02:00) Africa/Lubumbashi"
+    },
+    "DK": {
+        "name": "Denmark",
+        "currency": "DKK",
+        "currency_name": "Danish krone",
+        "currency_symbol": "Kr.",
+        "timezone": "(GMT+01:00) Europe/Copenhagen"
+    },
+    "DJ": {
+        "name": "Djibouti",
+        "currency": "DJF",
+        "currency_name": "Djiboutian franc",
+        "currency_symbol": "Fdj",
+        "timezone": "(GMT+03:00) Africa/Djibouti"
+    },
+    "DM": {
+        "name": "Dominica",
+        "currency": "XCD",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Dominica"
+    },
+    "DO": {
+        "name": "Dominican Republic",
+        "currency": "DOP",
+        "currency_name": "Dominican peso",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Santo_Domingo"
+    },
+    "EC": {
+        "name": "Ecuador",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-06:00) Pacific/Galapagos"
+    },
+    "EG": {
+        "name": "Egypt",
+        "currency": "EGP",
+        "currency_name": "Egyptian pound",
+        "currency_symbol": "ج.م",
+        "timezone": "(GMT+02:00) Africa/Cairo"
+    },
+    "SV": {
+        "name": "El Salvador",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-06:00) America/El_Salvador"
+    },
+    "GQ": {
+        "name": "Equatorial Guinea",
+        "currency": "XAF",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "FCFA",
+        "timezone": "(GMT+01:00) Africa/Malabo"
+    },
+    "ER": {
+        "name": "Eritrea",
+        "currency": "ERN",
+        "currency_name": "Eritrean nakfa",
+        "currency_symbol": "Nfk",
+        "timezone": "(GMT+03:00) Africa/Asmara"
+    },
+    "EE": {
+        "name": "Estonia",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+02:00) Europe/Tallinn"
+    },
+    "SZ": {
+        "name": "Eswatini",
+        "currency": "SZL",
+        "currency_name": "Lilangeni",
+        "currency_symbol": "E",
+        "timezone": "(GMT+02:00) Africa/Mbabane"
+    },
+    "ET": {
+        "name": "Ethiopia",
+        "currency": "ETB",
+        "currency_name": "Ethiopian birr",
+        "currency_symbol": "Nkf",
+        "timezone": "(GMT+03:00) Africa/Addis_Ababa"
+    },
+    "FK": {
+        "name": "Falkland Islands",
+        "currency": "FKP",
+        "currency_name": "Falkland Islands pound",
+        "currency_symbol": "£",
+        "timezone": "(GMT-03:00) Atlantic/Stanley"
+    },
+    "FO": {
+        "name": "Faroe Islands",
+        "currency": "DKK",
+        "currency_name": "Danish krone",
+        "currency_symbol": "Kr.",
+        "timezone": "(GMT+00:00) Atlantic/Faroe"
+    },
+    "FJ": {
+        "name": "Fiji Islands",
+        "currency": "FJD",
+        "currency_name": "Fijian dollar",
+        "currency_symbol": "FJ$",
+        "timezone": "(GMT+12:00) Pacific/Fiji"
+    },
+    "FI": {
+        "name": "Finland",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+02:00) Europe/Helsinki"
+    },
+    "FR": {
+        "name": "France",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Paris"
+    },
+    "GF": {
+        "name": "French Guiana",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT-03:00) America/Cayenne"
+    },
+    "PF": {
+        "name": "French Polynesia",
+        "currency": "XPF",
+        "currency_name": "CFP franc",
+        "currency_symbol": "₣",
+        "timezone": "(GMT-10:00) Pacific/Tahiti"
+    },
+    "TF": {
+        "name": "French Southern Territories",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+05:00) Indian/Kerguelen"
+    },
+    "GA": {
+        "name": "Gabon",
+        "currency": "XAF",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "FCFA",
+        "timezone": "(GMT+01:00) Africa/Libreville"
+    },
+    "GM": {
+        "name": "Gambia The",
+        "currency": "GMD",
+        "currency_name": "Gambian dalasi",
+        "currency_symbol": "D",
+        "timezone": "(GMT+00:00) Africa/Banjul"
+    },
+    "GE": {
+        "name": "Georgia",
+        "currency": "GEL",
+        "currency_name": "Georgian lari",
+        "currency_symbol": "ლ",
+        "timezone": "(GMT+04:00) Asia/Tbilisi"
+    },
+    "DE": {
+        "name": "Germany",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Busingen"
+    },
+    "GH": {
+        "name": "Ghana",
+        "currency": "GHS",
+        "currency_name": "Ghanaian cedi",
+        "currency_symbol": "GH₵",
+        "timezone": "(GMT+00:00) Africa/Accra"
+    },
+    "GI": {
+        "name": "Gibraltar",
+        "currency": "GIP",
+        "currency_name": "Gibraltar pound",
+        "currency_symbol": "£",
+        "timezone": "(GMT+01:00) Europe/Gibraltar"
+    },
+    "GR": {
+        "name": "Greece",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+02:00) Europe/Athens"
+    },
+    "GL": {
+        "name": "Greenland",
+        "currency": "DKK",
+        "currency_name": "Danish krone",
+        "currency_symbol": "Kr.",
+        "timezone": "(GMT-04:00) America/Thule"
+    },
+    "GD": {
+        "name": "Grenada",
+        "currency": "XCD",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Grenada"
+    },
+    "GP": {
+        "name": "Guadeloupe",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT-04:00) America/Guadeloupe"
+    },
+    "GU": {
+        "name": "Guam",
+        "currency": "USD",
+        "currency_name": "US Dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+10:00) Pacific/Guam"
+    },
+    "GT": {
+        "name": "Guatemala",
+        "currency": "GTQ",
+        "currency_name": "Guatemalan quetzal",
+        "currency_symbol": "Q",
+        "timezone": "(GMT-06:00) America/Guatemala"
+    },
+    "GG": {
+        "name": "Guernsey and Alderney",
+        "currency": "GBP",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "timezone": "(GMT+00:00) Europe/Guernsey"
+    },
+    "GN": {
+        "name": "Guinea",
+        "currency": "GNF",
+        "currency_name": "Guinean franc",
+        "currency_symbol": "FG",
+        "timezone": "(GMT+00:00) Africa/Conakry"
+    },
+    "GW": {
+        "name": "Guinea-Bissau",
+        "currency": "XOF",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "CFA",
+        "timezone": "(GMT+00:00) Africa/Bissau"
+    },
+    "GY": {
+        "name": "Guyana",
+        "currency": "GYD",
+        "currency_name": "Guyanese dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Guyana"
+    },
+    "HT": {
+        "name": "Haiti",
+        "currency": "HTG",
+        "currency_name": "Haitian gourde",
+        "currency_symbol": "G",
+        "timezone": "(GMT-05:00) America/Port-au-Prince"
+    },
+    "HM": {
+        "name": "Heard Island and McDonald Islands",
+        "currency": "AUD",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+05:00) Indian/Kerguelen"
+    },
+    "HN": {
+        "name": "Honduras",
+        "currency": "HNL",
+        "currency_name": "Honduran lempira",
+        "currency_symbol": "L",
+        "timezone": "(GMT-06:00) America/Tegucigalpa"
+    },
+    "HK": {
+        "name": "Hong Kong S.A.R.",
+        "currency": "HKD",
+        "currency_name": "Hong Kong dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+08:00) Asia/Hong_Kong"
+    },
+    "HU": {
+        "name": "Hungary",
+        "currency": "HUF",
+        "currency_name": "Hungarian forint",
+        "currency_symbol": "Ft",
+        "timezone": "(GMT+01:00) Europe/Budapest"
+    },
+    "IS": {
+        "name": "Iceland",
+        "currency": "ISK",
+        "currency_name": "Icelandic króna",
+        "currency_symbol": "kr",
+        "timezone": "(GMT+00:00) Atlantic/Reykjavik"
+    },
+    "IN": {
+        "name": "India",
+        "currency": "INR",
+        "currency_name": "Indian rupee",
+        "currency_symbol": "₹",
+        "timezone": "(GMT+05:30) Asia/Kolkata"
+    },
+    "ID": {
+        "name": "Indonesia",
+        "currency": "IDR",
+        "currency_name": "Indonesian rupiah",
+        "currency_symbol": "Rp",
+        "timezone": "(GMT+07:00) Asia/Pontianak"
+    },
+    "IR": {
+        "name": "Iran",
+        "currency": "IRR",
+        "currency_name": "Iranian rial",
+        "currency_symbol": "﷼",
+        "timezone": "(GMT+03:30) Asia/Tehran"
+    },
+    "IQ": {
+        "name": "Iraq",
+        "currency": "IQD",
+        "currency_name": "Iraqi dinar",
+        "currency_symbol": "د.ع",
+        "timezone": "(GMT+03:00) Asia/Baghdad"
+    },
+    "IE": {
+        "name": "Ireland",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+00:00) Europe/Dublin"
+    },
+    "IL": {
+        "name": "Israel",
+        "currency": "ILS",
+        "currency_name": "Israeli new shekel",
+        "currency_symbol": "₪",
+        "timezone": "(GMT+02:00) Asia/Jerusalem"
+    },
+    "IT": {
+        "name": "Italy",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Rome"
+    },
+    "JM": {
+        "name": "Jamaica",
+        "currency": "JMD",
+        "currency_name": "Jamaican dollar",
+        "currency_symbol": "J$",
+        "timezone": "(GMT-05:00) America/Jamaica"
+    },
+    "JP": {
+        "name": "Japan",
+        "currency": "JPY",
+        "currency_name": "Japanese yen",
+        "currency_symbol": "¥",
+        "timezone": "(GMT+09:00) Asia/Tokyo"
+    },
+    "JE": {
+        "name": "Jersey",
+        "currency": "GBP",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "timezone": "(GMT+00:00) Europe/Jersey"
+    },
+    "JO": {
+        "name": "Jordan",
+        "currency": "JOD",
+        "currency_name": "Jordanian dinar",
+        "currency_symbol": "ا.د",
+        "timezone": "(GMT+02:00) Asia/Amman"
+    },
+    "KZ": {
+        "name": "Kazakhstan",
+        "currency": "KZT",
+        "currency_name": "Kazakhstani tenge",
+        "currency_symbol": "лв",
+        "timezone": "(GMT+05:00) Asia/Qyzylorda"
+    },
+    "KE": {
+        "name": "Kenya",
+        "currency": "KES",
+        "currency_name": "Kenyan shilling",
+        "currency_symbol": "KSh",
+        "timezone": "(GMT+03:00) Africa/Nairobi"
+    },
+    "KI": {
+        "name": "Kiribati",
+        "currency": "AUD",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+12:00) Pacific/Tarawa"
+    },
+    "XK": {
+        "name": "Kosovo",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Belgrade"
+    },
+    "KW": {
+        "name": "Kuwait",
+        "currency": "KWD",
+        "currency_name": "Kuwaiti dinar",
+        "currency_symbol": "ك.د",
+        "timezone": "(GMT+03:00) Asia/Kuwait"
+    },
+    "KG": {
+        "name": "Kyrgyzstan",
+        "currency": "KGS",
+        "currency_name": "Kyrgyzstani som",
+        "currency_symbol": "лв",
+        "timezone": "(GMT+06:00) Asia/Bishkek"
+    },
+    "LA": {
+        "name": "Laos",
+        "currency": "LAK",
+        "currency_name": "Lao kip",
+        "currency_symbol": "₭",
+        "timezone": "(GMT+07:00) Asia/Vientiane"
+    },
+    "LV": {
+        "name": "Latvia",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+02:00) Europe/Riga"
+    },
+    "LB": {
+        "name": "Lebanon",
+        "currency": "LBP",
+        "currency_name": "Lebanese pound",
+        "currency_symbol": "£",
+        "timezone": "(GMT+02:00) Asia/Beirut"
+    },
+    "LS": {
+        "name": "Lesotho",
+        "currency": "LSL",
+        "currency_name": "Lesotho loti",
+        "currency_symbol": "L",
+        "timezone": "(GMT+02:00) Africa/Maseru"
+    },
+    "LR": {
+        "name": "Liberia",
+        "currency": "LRD",
+        "currency_name": "Liberian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+00:00) Africa/Monrovia"
+    },
+    "LY": {
+        "name": "Libya",
+        "currency": "LYD",
+        "currency_name": "Libyan dinar",
+        "currency_symbol": "د.ل",
+        "timezone": "(GMT+02:00) Africa/Tripoli"
+    },
+    "LI": {
+        "name": "Liechtenstein",
+        "currency": "CHF",
+        "currency_name": "Swiss franc",
+        "currency_symbol": "CHf",
+        "timezone": "(GMT+01:00) Europe/Vaduz"
+    },
+    "LT": {
+        "name": "Lithuania",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+02:00) Europe/Vilnius"
+    },
+    "LU": {
+        "name": "Luxembourg",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Luxembourg"
+    },
+    "MO": {
+        "name": "Macau S.A.R.",
+        "currency": "MOP",
+        "currency_name": "Macanese pataca",
+        "currency_symbol": "$",
+        "timezone": "(GMT+08:00) Asia/Macau"
+    },
+    "MG": {
+        "name": "Madagascar",
+        "currency": "MGA",
+        "currency_name": "Malagasy ariary",
+        "currency_symbol": "Ar",
+        "timezone": "(GMT+03:00) Indian/Antananarivo"
+    },
+    "MW": {
+        "name": "Malawi",
+        "currency": "MWK",
+        "currency_name": "Malawian kwacha",
+        "currency_symbol": "MK",
+        "timezone": "(GMT+02:00) Africa/Blantyre"
+    },
+    "MY": {
+        "name": "Malaysia",
+        "currency": "MYR",
+        "currency_name": "Malaysian ringgit",
+        "currency_symbol": "RM",
+        "timezone": "(GMT+08:00) Asia/Kuching"
+    },
+    "MV": {
+        "name": "Maldives",
+        "currency": "MVR",
+        "currency_name": "Maldivian rufiyaa",
+        "currency_symbol": "Rf",
+        "timezone": "(GMT+05:00) Indian/Maldives"
+    },
+    "ML": {
+        "name": "Mali",
+        "currency": "XOF",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "CFA",
+        "timezone": "(GMT+00:00) Africa/Bamako"
+    },
+    "MT": {
+        "name": "Malta",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Malta"
+    },
+    "IM": {
+        "name": "Man (Isle of)",
+        "currency": "GBP",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "timezone": "(GMT+00:00) Europe/Isle_of_Man"
+    },
+    "MH": {
+        "name": "Marshall Islands",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+12:00) Pacific/Majuro"
+    },
+    "MQ": {
+        "name": "Martinique",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT-04:00) America/Martinique"
+    },
+    "MR": {
+        "name": "Mauritania",
+        "currency": "MRO",
+        "currency_name": "Mauritanian ouguiya",
+        "currency_symbol": "MRU",
+        "timezone": "(GMT+00:00) Africa/Nouakchott"
+    },
+    "MU": {
+        "name": "Mauritius",
+        "currency": "MUR",
+        "currency_name": "Mauritian rupee",
+        "currency_symbol": "₨",
+        "timezone": "(GMT+04:00) Indian/Mauritius"
+    },
+    "YT": {
+        "name": "Mayotte",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+03:00) Indian/Mayotte"
+    },
+    "MX": {
+        "name": "Mexico",
+        "currency": "MXN",
+        "currency_name": "Mexican peso",
+        "currency_symbol": "$",
+        "timezone": "(GMT-08:00) America/Tijuana"
+    },
+    "FM": {
+        "name": "Micronesia",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+11:00) Pacific/Pohnpei"
+    },
+    "MD": {
+        "name": "Moldova",
+        "currency": "MDL",
+        "currency_name": "Moldovan leu",
+        "currency_symbol": "L",
+        "timezone": "(GMT+02:00) Europe/Chisinau"
+    },
+    "MC": {
+        "name": "Monaco",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Monaco"
+    },
+    "MN": {
+        "name": "Mongolia",
+        "currency": "MNT",
+        "currency_name": "Mongolian tögrög",
+        "currency_symbol": "₮",
+        "timezone": "(GMT+08:00) Asia/Ulaanbaatar"
+    },
+    "ME": {
+        "name": "Montenegro",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Podgorica"
+    },
+    "MS": {
+        "name": "Montserrat",
+        "currency": "XCD",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Montserrat"
+    },
+    "MA": {
+        "name": "Morocco",
+        "currency": "MAD",
+        "currency_name": "Moroccan dirham",
+        "currency_symbol": "DH",
+        "timezone": "(GMT+01:00) Africa/Casablanca"
+    },
+    "MZ": {
+        "name": "Mozambique",
+        "currency": "MZN",
+        "currency_name": "Mozambican metical",
+        "currency_symbol": "MT",
+        "timezone": "(GMT+02:00) Africa/Maputo"
+    },
+    "MM": {
+        "name": "Myanmar",
+        "currency": "MMK",
+        "currency_name": "Burmese kyat",
+        "currency_symbol": "K",
+        "timezone": "(GMT+06:30) Asia/Yangon"
+    },
+    "NA": {
+        "name": "Namibia",
+        "currency": "NAD",
+        "currency_name": "Namibian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+02:00) Africa/Windhoek"
+    },
+    "NR": {
+        "name": "Nauru",
+        "currency": "AUD",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+12:00) Pacific/Nauru"
+    },
+    "NP": {
+        "name": "Nepal",
+        "currency": "NPR",
+        "currency_name": "Nepalese rupee",
+        "currency_symbol": "₨",
+        "timezone": "(GMT+05:45) Asia/Kathmandu"
+    },
+    "NL": {
+        "name": "Netherlands",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Amsterdam"
+    },
+    "NC": {
+        "name": "New Caledonia",
+        "currency": "XPF",
+        "currency_name": "CFP franc",
+        "currency_symbol": "₣",
+        "timezone": "(GMT+11:00) Pacific/Noumea"
+    },
+    "NZ": {
+        "name": "New Zealand",
+        "currency": "NZD",
+        "currency_name": "New Zealand dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+13:45) Pacific/Chatham"
+    },
+    "NI": {
+        "name": "Nicaragua",
+        "currency": "NIO",
+        "currency_name": "Nicaraguan córdoba",
+        "currency_symbol": "C$",
+        "timezone": "(GMT-06:00) America/Managua"
+    },
+    "NE": {
+        "name": "Niger",
+        "currency": "XOF",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "CFA",
+        "timezone": "(GMT+01:00) Africa/Niamey"
+    },
+    "NG": {
+        "name": "Nigeria",
+        "currency": "NGN",
+        "currency_name": "Nigerian naira",
+        "currency_symbol": "₦",
+        "timezone": "(GMT+01:00) Africa/Lagos"
+    },
+    "NU": {
+        "name": "Niue",
+        "currency": "NZD",
+        "currency_name": "New Zealand dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-11:00) Pacific/Niue"
+    },
+    "NF": {
+        "name": "Norfolk Island",
+        "currency": "AUD",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+12:00) Pacific/Norfolk"
+    },
+    "KP": {
+        "name": "North Korea",
+        "currency": "KPW",
+        "currency_name": "North Korean Won",
+        "currency_symbol": "₩",
+        "timezone": "(GMT+09:00) Asia/Pyongyang"
+    },
+    "MK": {
+        "name": "North Macedonia",
+        "currency": "MKD",
+        "currency_name": "Denar",
+        "currency_symbol": "ден",
+        "timezone": "(GMT+01:00) Europe/Skopje"
+    },
+    "MP": {
+        "name": "Northern Mariana Islands",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+10:00) Pacific/Saipan"
+    },
+    "NO": {
+        "name": "Norway",
+        "currency": "NOK",
+        "currency_name": "Norwegian krone",
+        "currency_symbol": "kr",
+        "timezone": "(GMT+01:00) Europe/Oslo"
+    },
+    "OM": {
+        "name": "Oman",
+        "currency": "OMR",
+        "currency_name": "Omani rial",
+        "currency_symbol": ".ع.ر",
+        "timezone": "(GMT+04:00) Asia/Muscat"
+    },
+    "PK": {
+        "name": "Pakistan",
+        "currency": "PKR",
+        "currency_name": "Pakistani rupee",
+        "currency_symbol": "₨",
+        "timezone": "(GMT+05:00) Asia/Karachi"
+    },
+    "PW": {
+        "name": "Palau",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+09:00) Pacific/Palau"
+    },
+    "PS": {
+        "name": "Palestinian Territory Occupied",
+        "currency": "ILS",
+        "currency_name": "Israeli new shekel",
+        "currency_symbol": "₪",
+        "timezone": "(GMT+02:00) Asia/Hebron"
+    },
+    "PA": {
+        "name": "Panama",
+        "currency": "PAB",
+        "currency_name": "Panamanian balboa",
+        "currency_symbol": "B/.",
+        "timezone": "(GMT-05:00) America/Panama"
+    },
+    "PG": {
+        "name": "Papua New Guinea",
+        "currency": "PGK",
+        "currency_name": "Papua New Guinean kina",
+        "currency_symbol": "K",
+        "timezone": "(GMT+10:00) Pacific/Port_Moresby"
+    },
+    "PY": {
+        "name": "Paraguay",
+        "currency": "PYG",
+        "currency_name": "Paraguayan guarani",
+        "currency_symbol": "₲",
+        "timezone": "(GMT-03:00) America/Asuncion"
+    },
+    "PE": {
+        "name": "Peru",
+        "currency": "PEN",
+        "currency_name": "Peruvian sol",
+        "currency_symbol": "S/.",
+        "timezone": "(GMT-05:00) America/Lima"
+    },
+    "PH": {
+        "name": "Philippines",
+        "currency": "PHP",
+        "currency_name": "Philippine peso",
+        "currency_symbol": "₱",
+        "timezone": "(GMT+08:00) Asia/Manila"
+    },
+    "PN": {
+        "name": "Pitcairn Island",
+        "currency": "NZD",
+        "currency_name": "New Zealand dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-08:00) Pacific/Pitcairn"
+    },
+    "PL": {
+        "name": "Poland",
+        "currency": "PLN",
+        "currency_name": "Polish złoty",
+        "currency_symbol": "zł",
+        "timezone": "(GMT+01:00) Europe/Warsaw"
+    },
+    "PT": {
+        "name": "Portugal",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+00:00) Europe/Lisbon"
+    },
+    "PR": {
+        "name": "Puerto Rico",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Puerto_Rico"
+    },
+    "QA": {
+        "name": "Qatar",
+        "currency": "QAR",
+        "currency_name": "Qatari riyal",
+        "currency_symbol": "ق.ر",
+        "timezone": "(GMT+03:00) Asia/Qatar"
+    },
+    "RE": {
+        "name": "Reunion",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+04:00) Indian/Reunion"
+    },
+    "RO": {
+        "name": "Romania",
+        "currency": "RON",
+        "currency_name": "Romanian leu",
+        "currency_symbol": "lei",
+        "timezone": "(GMT+02:00) Europe/Bucharest"
+    },
+    "RU": {
+        "name": "Russia",
+        "currency": "RUB",
+        "currency_name": "Russian ruble",
+        "currency_symbol": "₽",
+        "timezone": "(GMT+04:00) Europe/Volgograd"
+    },
+    "RW": {
+        "name": "Rwanda",
+        "currency": "RWF",
+        "currency_name": "Rwandan franc",
+        "currency_symbol": "FRw",
+        "timezone": "(GMT+02:00) Africa/Kigali"
+    },
+    "SH": {
+        "name": "Saint Helena",
+        "currency": "SHP",
+        "currency_name": "Saint Helena pound",
+        "currency_symbol": "£",
+        "timezone": "(GMT+00:00) Atlantic/St_Helena"
+    },
+    "KN": {
+        "name": "Saint Kitts and Nevis",
+        "currency": "XCD",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/St_Kitts"
+    },
+    "LC": {
+        "name": "Saint Lucia",
+        "currency": "XCD",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/St_Lucia"
+    },
+    "PM": {
+        "name": "Saint Pierre and Miquelon",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT-03:00) America/Miquelon"
+    },
+    "VC": {
+        "name": "Saint Vincent and the Grenadines",
+        "currency": "XCD",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/St_Vincent"
+    },
+    "BL": {
+        "name": "Saint-Barthelemy",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT-04:00) America/St_Barthelemy"
+    },
+    "MF": {
+        "name": "Saint-Martin (French part)",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT-04:00) America/Marigot"
+    },
+    "WS": {
+        "name": "Samoa",
+        "currency": "WST",
+        "currency_name": "Samoan tālā",
+        "currency_symbol": "SAT",
+        "timezone": "(GMT+14:00) Pacific/Apia"
+    },
+    "SM": {
+        "name": "San Marino",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/San_Marino"
+    },
+    "ST": {
+        "name": "Sao Tome and Principe",
+        "currency": "STD",
+        "currency_name": "Dobra",
+        "currency_symbol": "Db",
+        "timezone": "(GMT+00:00) Africa/Sao_Tome"
+    },
+    "SA": {
+        "name": "Saudi Arabia",
+        "currency": "SAR",
+        "currency_name": "Saudi riyal",
+        "currency_symbol": "﷼",
+        "timezone": "(GMT+03:00) Asia/Riyadh"
+    },
+    "SN": {
+        "name": "Senegal",
+        "currency": "XOF",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "CFA",
+        "timezone": "(GMT+00:00) Africa/Dakar"
+    },
+    "RS": {
+        "name": "Serbia",
+        "currency": "RSD",
+        "currency_name": "Serbian dinar",
+        "currency_symbol": "din",
+        "timezone": "(GMT+01:00) Europe/Belgrade"
+    },
+    "SC": {
+        "name": "Seychelles",
+        "currency": "SCR",
+        "currency_name": "Seychellois rupee",
+        "currency_symbol": "SRe",
+        "timezone": "(GMT+04:00) Indian/Mahe"
+    },
+    "SL": {
+        "name": "Sierra Leone",
+        "currency": "SLL",
+        "currency_name": "Sierra Leonean leone",
+        "currency_symbol": "Le",
+        "timezone": "(GMT+00:00) Africa/Freetown"
+    },
+    "SG": {
+        "name": "Singapore",
+        "currency": "SGD",
+        "currency_name": "Singapore dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+08:00) Asia/Singapore"
+    },
+    "SX": {
+        "name": "Sint Maarten (Dutch part)",
+        "currency": "ANG",
+        "currency_name": "Netherlands Antillean guilder",
+        "currency_symbol": "ƒ",
+        "timezone": "(GMT-04:00) America/Anguilla"
+    },
+    "SK": {
+        "name": "Slovakia",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Bratislava"
+    },
+    "SI": {
+        "name": "Slovenia",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Ljubljana"
+    },
+    "SB": {
+        "name": "Solomon Islands",
+        "currency": "SBD",
+        "currency_name": "Solomon Islands dollar",
+        "currency_symbol": "Si$",
+        "timezone": "(GMT+11:00) Pacific/Guadalcanal"
+    },
+    "SO": {
+        "name": "Somalia",
+        "currency": "SOS",
+        "currency_name": "Somali shilling",
+        "currency_symbol": "Sh.so.",
+        "timezone": "(GMT+03:00) Africa/Mogadishu"
+    },
+    "ZA": {
+        "name": "South Africa",
+        "currency": "ZAR",
+        "currency_name": "South African rand",
+        "currency_symbol": "R",
+        "timezone": "(GMT+02:00) Africa/Johannesburg"
+    },
+    "GS": {
+        "name": "South Georgia",
+        "currency": "GBP",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "timezone": "(GMT-02:00) Atlantic/South_Georgia"
+    },
+    "KR": {
+        "name": "South Korea",
+        "currency": "KRW",
+        "currency_name": "Won",
+        "currency_symbol": "₩",
+        "timezone": "(GMT+09:00) Asia/Seoul"
+    },
+    "SS": {
+        "name": "South Sudan",
+        "currency": "SSP",
+        "currency_name": "South Sudanese pound",
+        "currency_symbol": "£",
+        "timezone": "(GMT+03:00) Africa/Juba"
+    },
+    "ES": {
+        "name": "Spain",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Madrid"
+    },
+    "LK": {
+        "name": "Sri Lanka",
+        "currency": "LKR",
+        "currency_name": "Sri Lankan rupee",
+        "currency_symbol": "Rs",
+        "timezone": "(GMT+05:30) Asia/Colombo"
+    },
+    "SD": {
+        "name": "Sudan",
+        "currency": "SDG",
+        "currency_name": "Sudanese pound",
+        "currency_symbol": ".س.ج",
+        "timezone": "(GMT+02:00) Africa/Khartoum"
+    },
+    "SR": {
+        "name": "Suriname",
+        "currency": "SRD",
+        "currency_name": "Surinamese dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-03:00) America/Paramaribo"
+    },
+    "SJ": {
+        "name": "Svalbard and Jan Mayen Islands",
+        "currency": "NOK",
+        "currency_name": "Norwegian Krone",
+        "currency_symbol": "kr",
+        "timezone": "(GMT+01:00) Arctic/Longyearbyen"
+    },
+    "SE": {
+        "name": "Sweden",
+        "currency": "SEK",
+        "currency_name": "Swedish krona",
+        "currency_symbol": "kr",
+        "timezone": "(GMT+01:00) Europe/Stockholm"
+    },
+    "CH": {
+        "name": "Switzerland",
+        "currency": "CHF",
+        "currency_name": "Swiss franc",
+        "currency_symbol": "CHf",
+        "timezone": "(GMT+01:00) Europe/Zurich"
+    },
+    "SY": {
+        "name": "Syria",
+        "currency": "SYP",
+        "currency_name": "Syrian pound",
+        "currency_symbol": "LS",
+        "timezone": "(GMT+02:00) Asia/Damascus"
+    },
+    "TW": {
+        "name": "Taiwan",
+        "currency": "TWD",
+        "currency_name": "New Taiwan dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+08:00) Asia/Taipei"
+    },
+    "TJ": {
+        "name": "Tajikistan",
+        "currency": "TJS",
+        "currency_name": "Tajikistani somoni",
+        "currency_symbol": "SM",
+        "timezone": "(GMT+05:00) Asia/Dushanbe"
+    },
+    "TZ": {
+        "name": "Tanzania",
+        "currency": "TZS",
+        "currency_name": "Tanzanian shilling",
+        "currency_symbol": "TSh",
+        "timezone": "(GMT+03:00) Africa/Dar_es_Salaam"
+    },
+    "TH": {
+        "name": "Thailand",
+        "currency": "THB",
+        "currency_name": "Thai baht",
+        "currency_symbol": "฿",
+        "timezone": "(GMT+07:00) Asia/Bangkok"
+    },
+    "BS": {
+        "name": "The Bahamas",
+        "currency": "BSD",
+        "currency_name": "Bahamian dollar",
+        "currency_symbol": "B$",
+        "timezone": "(GMT-05:00) America/Nassau"
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+09:00) Asia/Dili"
+    },
+    "TG": {
+        "name": "Togo",
+        "currency": "XOF",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "CFA",
+        "timezone": "(GMT+00:00) Africa/Lome"
+    },
+    "TK": {
+        "name": "Tokelau",
+        "currency": "NZD",
+        "currency_name": "New Zealand dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+13:00) Pacific/Fakaofo"
+    },
+    "TO": {
+        "name": "Tonga",
+        "currency": "TOP",
+        "currency_name": "Tongan paʻanga",
+        "currency_symbol": "$",
+        "timezone": "(GMT+13:00) Pacific/Tongatapu"
+    },
+    "TT": {
+        "name": "Trinidad and Tobago",
+        "currency": "TTD",
+        "currency_name": "Trinidad and Tobago dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Port_of_Spain"
+    },
+    "TN": {
+        "name": "Tunisia",
+        "currency": "TND",
+        "currency_name": "Tunisian dinar",
+        "currency_symbol": "ت.د",
+        "timezone": "(GMT+01:00) Africa/Tunis"
+    },
+    "TR": {
+        "name": "Turkey",
+        "currency": "TRY",
+        "currency_name": "Turkish lira",
+        "currency_symbol": "₺",
+        "timezone": "(GMT+03:00) Europe/Istanbul"
+    },
+    "TM": {
+        "name": "Turkmenistan",
+        "currency": "TMT",
+        "currency_name": "Turkmenistan manat",
+        "currency_symbol": "T",
+        "timezone": "(GMT+05:00) Asia/Ashgabat"
+    },
+    "TC": {
+        "name": "Turks and Caicos Islands",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-05:00) America/Grand_Turk"
+    },
+    "TV": {
+        "name": "Tuvalu",
+        "currency": "AUD",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+12:00) Pacific/Funafuti"
+    },
+    "UG": {
+        "name": "Uganda",
+        "currency": "UGX",
+        "currency_name": "Ugandan shilling",
+        "currency_symbol": "USh",
+        "timezone": "(GMT+03:00) Africa/Kampala"
+    },
+    "UA": {
+        "name": "Ukraine",
+        "currency": "UAH",
+        "currency_name": "Ukrainian hryvnia",
+        "currency_symbol": "₴",
+        "timezone": "(GMT+02:00) Europe/Zaporozhye"
+    },
+    "AE": {
+        "name": "United Arab Emirates",
+        "currency": "AED",
+        "currency_name": "United Arab Emirates dirham",
+        "currency_symbol": "إ.د",
+        "timezone": "(GMT+04:00) Asia/Dubai"
+    },
+    "GB": {
+        "name": "United Kingdom",
+        "currency": "GBP",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "timezone": "(GMT+00:00) Europe/London"
+    },
+    "US": {
+        "name": "United States",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-10:00) Pacific/Honolulu"
+    },
+    "UM": {
+        "name": "United States Minor Outlying Islands",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+12:00) Pacific/Wake"
+    },
+    "UY": {
+        "name": "Uruguay",
+        "currency": "UYU",
+        "currency_name": "Uruguayan peso",
+        "currency_symbol": "$",
+        "timezone": "(GMT-03:00) America/Montevideo"
+    },
+    "UZ": {
+        "name": "Uzbekistan",
+        "currency": "UZS",
+        "currency_name": "Uzbekistani soʻm",
+        "currency_symbol": "лв",
+        "timezone": "(GMT+05:00) Asia/Tashkent"
+    },
+    "VU": {
+        "name": "Vanuatu",
+        "currency": "VUV",
+        "currency_name": "Vanuatu vatu",
+        "currency_symbol": "VT",
+        "timezone": "(GMT+11:00) Pacific/Efate"
+    },
+    "VA": {
+        "name": "Vatican City State (Holy See)",
+        "currency": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "timezone": "(GMT+01:00) Europe/Vatican"
+    },
+    "VE": {
+        "name": "Venezuela",
+        "currency": "VES",
+        "currency_name": "Bolívar",
+        "currency_symbol": "Bs",
+        "timezone": "(GMT-04:00) America/Caracas"
+    },
+    "VN": {
+        "name": "Vietnam",
+        "currency": "VND",
+        "currency_name": "Vietnamese đồng",
+        "currency_symbol": "₫",
+        "timezone": "(GMT+07:00) Asia/Ho_Chi_Minh"
+    },
+    "VG": {
+        "name": "Virgin Islands (British)",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/Tortola"
+    },
+    "VI": {
+        "name": "Virgin Islands (US)",
+        "currency": "USD",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT-04:00) America/St_Thomas"
+    },
+    "WF": {
+        "name": "Wallis and Futuna Islands",
+        "currency": "XPF",
+        "currency_name": "CFP franc",
+        "currency_symbol": "₣",
+        "timezone": "(GMT+12:00) Pacific/Wallis"
+    },
+    "EH": {
+        "name": "Western Sahara",
+        "currency": "MAD",
+        "currency_name": "Moroccan Dirham",
+        "currency_symbol": "MAD",
+        "timezone": "(GMT+01:00) Africa/El_Aaiun"
+    },
+    "YE": {
+        "name": "Yemen",
+        "currency": "YER",
+        "currency_name": "Yemeni rial",
+        "currency_symbol": "﷼",
+        "timezone": "(GMT+03:00) Asia/Aden"
+    },
+    "ZM": {
+        "name": "Zambia",
+        "currency": "ZMW",
+        "currency_name": "Zambian kwacha",
+        "currency_symbol": "ZK",
+        "timezone": "(GMT+02:00) Africa/Lusaka"
+    },
+    "ZW": {
+        "name": "Zimbabwe",
+        "currency": "ZWL",
+        "currency_name": "Zimbabwe Dollar",
+        "currency_symbol": "$",
+        "timezone": "(GMT+02:00) Africa/Harare"
+    }
+}
